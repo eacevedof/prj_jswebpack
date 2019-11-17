@@ -4,8 +4,9 @@
 
 ## Indice
 ### [skeleton_001](https://github.com/eacevedof/prj_jswebpack/tree/master/skeleton_001#skeleton_001)
-- webpack
-- index.html
-- index.js
+- Es el esqueleto más básico:
+  - webpack
+  - index.html
+  - index.js
 
 
