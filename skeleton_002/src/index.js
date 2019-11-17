@@ -4,8 +4,7 @@ import indexcss from "./index.css"
 import icon from "./icon-demo.png"
 
 document.addEventListener("DOMContentLoaded", objevt =>{ 
-  //console.log("DOMContentLoaded objevt",objevt)
-  //console.log("styles:",styles,"style2:",style2)
+  console.log("indexcss:",indexcss)
 
   const eBody = document.getElementsByTagName("body")[0]
   const strtpl = `
@@ -13,7 +12,6 @@ document.addEventListener("DOMContentLoaded", objevt =>{
     <p class="${indexcss.bold}">Hello World !</p>
     <img src="${icon}" class="${indexcss.miimagen}"/>
   </div>
-  `  
-  //console.log("eBody",eBody)
+  ` 
   eBody.innerHTML = strtpl
 })
