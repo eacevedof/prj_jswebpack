@@ -1,0 +1,15 @@
+/*index.css*/
+.bold{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.miclase {
+  border: 1px solid green;
+}
+
+.miimagen {
+  width: 50px;
+  height: 50px;
+}
