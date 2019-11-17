@@ -1,5 +1,6 @@
 ## skeleton_001
 - La intención es tener una plantilla básica y minificada para trabajar con cualquier módulo/libreria de js
+- webpack-dev-server ofrece el **hotreload** lo que nos hace más productivo el desarrollo ya que no tenemos que recargar la página en cada cambio
 
 ## running
 ```js
@@ -19,10 +20,12 @@ npm run start
 
 ## includes:
 - > npm install --save-dev webpack
-- > npm install --save-dev webpack-cliebpack/skeleton_001 (master)
+- > npm install --save-dev webpack-cli
 - > npm install --save-dev webpack-dev-server
-- > Tamaño con node_modules: ![](https://trello-attachments.s3.amazonaws.com/5dd13bb322fd19618bbe8e21/343x101/c7d8da28da8a290fcee29d6eaeed0b51/image.png)
-- > Tamaño sin node_modules: ![](https://trello-attachments.s3.amazonaws.com/5dd13bb322fd19618bbe8e21/260x70/8a3c9ef6a743710054fb584870d77428/image.png)
+- > Tamaño con node_modules: 
+- ![](https://trello-attachments.s3.amazonaws.com/5dd13bb322fd19618bbe8e21/343x101/c7d8da28da8a290fcee29d6eaeed0b51/image.png)
+- > Tamaño sin node_modules: 
+- ![](https://trello-attachments.s3.amazonaws.com/5dd13bb322fd19618bbe8e21/260x70/8a3c9ef6a743710054fb584870d77428/image.png)
 
 
 ## 2019-11-17 13:21 SPAIN
