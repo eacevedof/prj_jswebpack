@@ -16,4 +16,7 @@
   - index.css
   - icon-demo.png
 
-
+### To-do
+- Actualizar vulnerabilidad
+- No hace bundle con index.css
+- Probar esta configuración: https://hackernoon.com/webpack-the-basics-2712a7ad640b
