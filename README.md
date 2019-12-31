@@ -20,3 +20,5 @@
 - Actualizar vulnerabilidad
 - No hace bundle con index.css
 - Probar esta configuración: https://hackernoon.com/webpack-the-basics-2712a7ad640b
+- Habria que ver porque aqui si se incluye el index.css lo reconoce:
+  - ![flexbox](https://github.com/eacevedof/prj_flexbox/tree/master/falconmasters/guia_completa_de_flexbox_desde_0/site)
